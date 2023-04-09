@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="160.49463mm"
+   height="40.26899mm"
+   viewBox="0 0 160.49463 40.26899"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   sodipodi:docname="four-ship.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.67169147"
+     inkscape:cx="353.58496"
+     inkscape:cy="46.152142"
+     inkscape:window-width="1280"
+     inkscape:window-height="702"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-43.742155,-94.654512)">
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.264999;stop-color:#000000"
+       id="circle520"
+       cx="63.905788"
+       cy="114.787"
+       r="4.8675003" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.264999;stop-color:#000000"
+       id="circle522"
+       cx="103.90579"
+       cy="114.787"
+       r="4.8675003" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.264999;stop-color:#000000"
+       id="circle524"
+       cx="143.90579"
+       cy="114.787"
+       r="4.8675003" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.264999;stop-color:#000000"
+       id="circle526"
+       cx="183.90579"
+       cy="114.787"
+       r="4.8675003" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 83.905793,94.786804 c -44.688546,12.235786 -61.414504,25.158416 0,40.000406 l 80.167357,0.004 c 61.4145,-14.84199 44.68854,-27.76462 0,-40.000414 z"
+       id="path802"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+</svg>
