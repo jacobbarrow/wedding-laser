@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="151.23952mm"
-   height="145.33173mm"
-   viewBox="0 0 151.23952 145.33173"
+   width="286.8067mm"
+   height="166.80861mm"
+   viewBox="0 0 286.80671 166.80861"
    version="1.1"
    id="svg55111"
    inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.44785472"
-     inkscape:cx="487.88143"
-     inkscape:cy="164.11572"
+     inkscape:zoom="0.52650793"
+     inkscape:cx="494.76938"
+     inkscape:cy="449.18602"
      inkscape:window-width="1280"
      inkscape:window-height="747"
      inkscape:window-x="0"
@@ -39,7 +39,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-23.631174,-139.42393)">
+     transform="translate(-33.634748,-146.76119)">
     <circle
        style="vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
        id="circle4276"
@@ -136,12 +136,149 @@
        cx="157.0381"
        cy="270.16589"
        r="3.4034176" />
-    <rect
-       style="vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-linecap:round;-inkscape-stroke:hairline;stop-color:#000000"
-       id="rect56498"
-       width="151.23952"
-       height="145.33173"
-       x="23.631174"
-       y="139.42393" />
+    <circle
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
+       id="circle57024"
+       cx="197.03809"
+       cy="150.16461"
+       r="3.4034176" />
+    <circle
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
+       id="circle57028"
+       cx="237.03804"
+       cy="150.16461"
+       r="3.4034176" />
+    <circle
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
+       id="circle57030"
+       cx="197.03809"
+       cy="190.16505"
+       r="3.4034176" />
+    <circle
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
+       id="circle57032"
+       cx="277.03802"
+       cy="150.16461"
+       r="2.8" />
+    <circle
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
+       id="circle57034"
+       cx="237.03804"
+       cy="190.16504"
+       r="3.4034176" />
+    <circle
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
+       id="circle57036"
+       cx="277.03802"
+       cy="190.16505"
+       r="3.4034176" />
+    <circle
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
+       id="circle57040"
+       cx="197.03809"
+       cy="230.1655"
+       r="3.4034176" />
+    <circle
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
+       id="circle57042"
+       cx="237.03804"
+       cy="230.16547"
+       r="3.4034176" />
+    <circle
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
+       id="circle57044"
+       cx="277.03802"
+       cy="230.1655"
+       r="3.4034176" />
+    <circle
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
+       id="circle57048"
+       cx="197.03809"
+       cy="270.16589"
+       r="3.4034176" />
+    <circle
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
+       id="circle57050"
+       cx="237.03804"
+       cy="270.16589"
+       r="3.4034176" />
+    <circle
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
+       id="circle57052"
+       cx="277.03802"
+       cy="270.16589"
+       r="3.4034176" />
+    <circle
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
+       id="circle57056"
+       cx="37.038166"
+       cy="310.16632"
+       r="3.4034176" />
+    <circle
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
+       id="circle57058"
+       cx="77.038155"
+       cy="310.16632"
+       r="3.4034176" />
+    <circle
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
+       id="circle57060"
+       cx="117.03812"
+       cy="310.16632"
+       r="3.4034176" />
+    <circle
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
+       id="circle57062"
+       cx="157.0381"
+       cy="310.16632"
+       r="3.4034176" />
+    <circle
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
+       id="circle57072"
+       cx="197.03809"
+       cy="310.16635"
+       r="3.4034176" />
+    <circle
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
+       id="circle57074"
+       cx="237.03804"
+       cy="310.16632"
+       r="3.4034176" />
+    <circle
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
+       id="circle57076"
+       cx="277.03802"
+       cy="310.16635"
+       r="3.4034176" />
+    <circle
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
+       id="circle57086"
+       cx="317.03802"
+       cy="150.16464"
+       r="2.8" />
+    <circle
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
+       id="circle57090"
+       cx="317.03802"
+       cy="190.16508"
+       r="3.4034176" />
+    <circle
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
+       id="circle57094"
+       cx="317.03802"
+       cy="230.16553"
+       r="3.4034176" />
+    <circle
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
+       id="circle57098"
+       cx="317.03802"
+       cy="270.16592"
+       r="3.4034176" />
+    <circle
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
+       id="circle57102"
+       cx="317.03802"
+       cy="310.16638"
+       r="3.4034176" />
   </g>
 </svg>
