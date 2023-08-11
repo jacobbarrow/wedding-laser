@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="213.88927mm"
-   height="190mm"
-   viewBox="0 0 213.88927 190"
+   width="203.30594mm"
+   height="189.99977mm"
+   viewBox="0 0 203.30594 189.99977"
    version="1.1"
    id="svg20428"
    inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
@@ -25,7 +25,7 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.63256944"
-     inkscape:cx="440.26787"
+     inkscape:cx="299.57185"
      inkscape:cy="426.04018"
      inkscape:window-width="1280"
      inkscape:window-height="747"
@@ -39,10 +39,11 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-259.95808,-13.187161)">
+     transform="translate(-270.54141,-13.187162)">
     <path
        id="path21099"
        style="fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-linecap:round;stroke-opacity:1;stop-color:#000000"
-       d="M 279.8256 13.319453 L 279.8256 39.832563 L 260.09037 39.832563 L 260.09037 176.28263 L 279.8256 176.28263 L 279.8256 202.79523 L 433.98002 203.05464 L 453.71525 203.05464 L 473.71506 203.05464 L 473.71506 176.54153 L 453.71525 176.54153 L 453.71525 145.17652 L 270.84114 145.17652 L 270.84114 75.176659 L 453.71525 75.176659 L 453.71525 39.832563 L 473.71506 39.832563 L 473.71506 13.319453 L 453.71525 13.319453 L 433.98002 13.319453 L 279.8256 13.319453 z " />
+       d="m 290.40893,13.319453 v 26.51311 H 270.6737 V 176.28263 h 19.73523 v 26.5126 l 143.57109,0.25941 h 19.73523 19.99981 V 176.54153 H 453.71525 V 145.17652 H 281.42447 V 75.176659 H 453.71525 V 39.832563 h 19.99981 v -26.51311 h -19.99981 -19.73523 z"
+       sodipodi:nodetypes="ccccccccccccccccccccc" />
   </g>
 </svg>
