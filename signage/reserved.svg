@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="129.88747mm"
+   height="32.133335mm"
+   viewBox="0 0 129.88747 32.133335"
+   version="1.1"
+   id="svg15846"
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   sodipodi:docname="reserved.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview15848"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.580471"
+     inkscape:cx="183.4717"
+     inkscape:cy="39.622996"
+     inkscape:window-width="1280"
+     inkscape:window-height="800"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs15843" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-19.398526,-24.432421)">
+    <rect
+       style="fill:none;stroke:#e70000;stroke-width:0.264583;stroke-linecap:round;stop-color:#000000"
+       id="rect16019"
+       width="129.62288"
+       height="31.868752"
+       x="19.530819"
+       y="24.564713"
+       ry="4.8211331" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:21.0046px;line-height:1.25;font-family:sans-serif;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.264583;stroke-opacity:1"
+       x="24.548887"
+       y="47.396351"
+       id="text16023"><tspan
+         sodipodi:role="line"
+         id="tspan16021"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.0046px;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery';fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.264583;stroke-opacity:1"
+         x="24.548887"
+         y="47.396351">RESERVED</tspan></text>
+  </g>
+</svg>
