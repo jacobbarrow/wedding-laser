@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="203.30594mm"
-   height="189.99977mm"
-   viewBox="0 0 203.30594 189.99977"
+   width="245.96371mm"
+   height="109.20197mm"
+   viewBox="0 0 245.96371 109.20197"
    version="1.1"
    id="svg20428"
    inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.63256944"
-     inkscape:cx="299.57185"
-     inkscape:cy="426.04018"
+     inkscape:cx="432.3636"
+     inkscape:cy="174.68438"
      inkscape:window-width="1280"
      inkscape:window-height="747"
      inkscape:window-x="0"
@@ -39,11 +39,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-270.54141,-13.187162)">
+     transform="translate(-235.24043,-79.465361)">
     <path
-       id="path21099"
-       style="fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-linecap:round;stroke-opacity:1;stop-color:#000000"
-       d="m 290.40893,13.319453 v 26.51311 H 270.6737 V 176.28263 h 19.73523 v 26.5126 l 143.57109,0.25941 h 19.73523 19.99981 V 176.54153 H 453.71525 V 145.17652 H 281.42447 V 75.176659 H 453.71525 V 39.832563 h 19.99981 v -26.51311 h -19.99981 -19.73523 z"
-       sodipodi:nodetypes="ccccccccccccccccccccc" />
+       id="path4152"
+       style="color:#000000;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-opacity:1;-inkscape-stroke:none"
+       d="M 387.24591,80.331901 V 114.06628 H 235.74043 v 40.00014 h 151.50548 v 33.73437 l 92.95919,-53.73418 -8.71678,-5.03949 z" />
   </g>
 </svg>
